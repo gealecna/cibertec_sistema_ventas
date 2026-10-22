@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<jnlp spec="1.0+" codebase="http://localhost:8000/" href="proyecto.jnlp">
+<jnlp spec="1.0+" codebase="https://gealecna.github.io/cibertec_sistema_ventas/" href="proyecto.jnlp">
     <information>
         <title>Sistema de Ventas Tecnologia</title>
         <vendor>Grupo Sadda - Cibertec</vendor>
